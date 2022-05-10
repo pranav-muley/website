@@ -2,24 +2,24 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "Entomology is the science that studies?",
+    answer: "Insects",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Behavior of human beings",
+      "Insects",
+      "The origin and history of technical and scientific terms",
+      "The formation of rocks"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "Hitler party which came into power in 1933 is known as?",
+    answer: "Nazi Party",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Democratic Party",
+      "Ku-Klux-Klan",
+      "Nazi Party",
+      "Labour Party"
     ]
   },
     {
@@ -35,13 +35,13 @@ let questions = [
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "Chlorophyll is a naturally occurring chelate compound in which central metal is?",
+    answer: "magnesium",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "magnesium",
+      "copper",
+      "iron",
+      "calcium"
     ]
   },
     {
